@@ -72,9 +72,8 @@ python eval.py --dataset UAVTrack112
 
 ## Demo Video
 
-'''
 [![Demo video](https://res.cloudinary.com/marcomontalbano/image/upload/v1666438800/video_to_markdown/images/youtube--mIunErVTXPI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/mIunErVTXPI "Demo video")
-'''
+
 
 
 
